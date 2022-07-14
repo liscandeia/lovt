@@ -1,0 +1,206 @@
+ header {
+        background-color: #FFFFFF;
+        display:flex;
+        justify-content: space-between;
+        padding: 10px;
+        margin-bottom: 15px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+      }
+      .menu{
+        margin-top: 7px ;
+      }
+     .logo{
+        display: inline-block;
+        font-size: 50px;
+        margin-left: 63px;
+     }
+     .frase{
+        display: inline-block;
+        width: 60px;
+        font-size: 10px;
+        font-family: "Ropa Sans";
+        color:#AAAAAA
+     }
+    
+     .menu{
+        margin-right: 13px;
+        
+        
+     }
+     .principal{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 45px;
+        margin-left: 3%;
+        
+        
+     }
+     .blocao{
+        display: flex;
+        margin-left: 70px;
+        margin-bottom: 40px;
+     }
+     .card1{
+        background-color: #EEEEEE;
+        width: 35%;
+        margin-right: 200px;
+        margin-left: 2%;
+        
+        
+     }
+     .preco1{
+        font-size: 25px;
+        color: #888888;
+        margin-left: 20px;
+     }
+     .new{
+        font-size: 20px;
+        color:#FFFFFF;
+        background-color: #51D275;
+        border-radius: 10.5px;
+        margin-right: 20px;
+        width: 60px;
+        text-align: center; 
+    }
+     .imgesquerda{
+    width:100% ;
+        
+     }
+.box1{
+    justify-content: space-between;
+    display: flex;
+}
+.txt1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    color:#555555;
+    
+   
+
+}
+.card2{
+    background-color: #EEEEEE;    ;
+    width: 35%;
+    margin-left:4% ;
+    
+ }
+ .preco2{
+    font-size: 25px;
+    color: #888888;
+    margin-left: 20px;
+ }
+ .sale{
+    font-size: 20px;
+    color:#FFFFFF;
+    background-color: #DC9730;
+    border-radius: 10.5px;
+    margin-right: 20px;
+    width: 60px;
+    text-align: center;
+     
+ }
+ .imgdireita{
+width:100% ;
+    
+ }
+.box2{
+justify-content: space-between;
+display: flex;
+}
+.txt2{
+display: flex;
+justify-content: center;
+width: 100%;
+color:#555555;
+}
+.seuestilo{
+font-size: 25px;
+display: flex;
+justify-content: center;
+color:#888888;
+margin-bottom: 20px;
+
+}
+.img1opaca{
+    display: flex;
+    justify-content: center;
+    opacity: 0.5;
+    margin-bottom: 25px;
+    align-items: center;
+}
+.texto1{
+    font-size: 25px;
+    position: absolute;
+    text-align: center; 
+    color: #FFFFFF;  
+}
+.img2opaca{
+    display: flex;
+    justify-content: center;
+    opacity: 0.5;
+    margin-bottom: 25px;
+    align-items: center;
+}
+.texto2{
+    font-size: 25px;
+    position: absolute;
+    text-align: center;   
+    color: #FFFFFF;  
+}
+.img3opaca{
+    display: flex;
+    justify-content: center;
+    opacity: 0.5;
+    margin-bottom: 90px;
+    align-items: center;
+}
+.texto3{
+    font-size: 25px;
+    position: absolute;
+    text-align: center;  
+    color: #FFFFFF;  
+   
+}
+footer{
+    background-color: #333333;
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    color:#FFFFFF;
+    padding: 20px;
+   
+}
+.mapa{
+    margin-left: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.endereco{
+    display: inline-block;
+     width: 200px; 
+     line-height: 35px;
+    margin-bottom: 15px;
+    
+}
+.redes{
+    display:inline-flex;
+    margin-right: 90px;
+    width: 120px;
+    justify-content: space-between;
+  
+      
+  
+}
+.outrasredes{
+    font-size: 12px;
+    width: 145px;
+    margin-bottom: 5px;
+    
+}
+.outrasredes1{
+    justify-content: center;
+    flex-direction: column;
+}
+
+
